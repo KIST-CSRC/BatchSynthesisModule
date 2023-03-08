@@ -1,0 +1,65 @@
+"""
+
+## location parameter ##
+
+posj : joint mode -> location number
+posx : distance mode -> location number
+
+## move parameter ##
+
+1. location : posx or posj or pos_list (depending on movement function)
+2. velocity, acceleration : vel, acc
+3. arrive time : time
+4. reference coordinate : ref=DR_BASE, DR_TOOL
+5. movement criterion : mod=DR_MV_MOD_ABS (absolute), DR_MV_MOD_REL (relative)
+6. velocity option : vel_opt=DR_MVS_VEL_NONE, DR_MVS_VEL_NONE(constant velocity)
+
+## move function ##
+
+1. movej -> use posj
+2. movel -> use posx
+3. movejx -> use posx, move j mode
+4. movelx -> use posx, move l mode
+5. movec(P3, P4, vel=30, acc=60, time=3) -> P3 () = posx(100, 300, 700, 45, 0, 0) // P4 = posx(500, 400, 800, 45, 45, 0)
+6. movesj -> draw spline using posj_list
+7. movesx -> draw spline using posx_list
+8. move_spiral -> draw radial motion and increase radius
+8. move_periodic -> draw sin graph and repeat this motion
+
+## set parameter ##
+1. set_tool(name) : activate tool which name "name" // set_tool_shape(name) : in gazebo
+2. set_singularity_handling(mode) : task motion에서 특이점의 영향으로 path deviation이 발생할 경우 대응 정책을 사용자가 선택할
+수 있도록 합니다. mode의 설정은 아래와 같은 설정이 가능 합니다.
+    - 자동회피 모드(Default) : DR_AVOID
+    - 경로 우선 : DR_TASK_STOP
+    - 속도 가변 : DR_VAR_VEL
+3. set_palletizing_mode(mode) : 팔레타이징 응용 모션에서 wrist 특이점 근방에서 설정한 위치와 속도를 정확히 지킬 수 있는 모드 입니다
+4. set_motion_end(mode) : 모션 완료후 로봇의 정지 상태를 확인하는 기능의 동작 여부를 설정하는 함수입니다.
+
+## 힘/강성 제어 및 기타 사용자 편의 기능 ##
+1. parallel_axis(x1, x2, x3, axis, ref), parallel_axis(vect, axis, ref) : 입력된 기준좌표계(ref) 기준의 3개의 포즈(x1,x2,x3)가 이루는 평면의 normal vector
+(get_normal(x1, x2, x3) 참조)방향에 Tool좌표계의 지정축(axis)의 방향을 일치시킵니다. 이때 로봇 TCP 위치는 현재 위치를 유지합니다.
+-> palletizing connection
+2. get_robot_model() : 로봇의 모델명을 읽는 명령어입니다.
+
+
+## teaching pandent ##
+1. sub_program_run(name) : 별도의 파일로 작성된 서브프로그램을 실행합니다. 티칭 펜던트 사용하는 경우, 본 구문이 자동 삽입됩니다.
+
+## check status ##
+1. check_motion : check current proceeding status using this function
+2. change_operation_speed(speed) :
+3. get_current_posj() : get current position
+4. get_workpiece_weight() : get weight of workpiece using torque sensor // reset_workpiece_weight() : reset weight (get initial point)
+5.
+
+## example ##
+
+# movec(c1, c2, velx, accx)
+# movesj(qlist, vel=100, acc=100)
+# movesx(xlist, vel=100, acc=100)
+# move_spiral(rev=9.5,rmax=20.0,lmax=50.0,time=20.0,axis=DR_AXIS_Z,ref=DR_TOOL)
+# move_periodic(amp =[10,0,0,0,30,0], period=1.0, atime=0.2, repeat=5, ref=DR_TOOL)
+# moveb(b_list1, vel=150, acc=250, ref=DR_BASE, mod=DR_MV_MOD_ABS)
+
+"""

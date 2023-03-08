@@ -1,0 +1,130 @@
+2022-10-25 13:57:44,628 - Batch Synthesis Server::DEBUG -- [Centris pump 0] : msg:Intialization already finished!, data:Non Error
+2022-10-25 13:57:44,771 - Batch Synthesis Server::DEBUG -- [Centris pump 1] : msg:Intialization already finished!, data:Non Error
+2022-10-25 13:57:44,914 - Batch Synthesis Server::DEBUG -- [Centris pump 2] : msg:Intialization already finished!, data:Non Error
+2022-10-25 13:57:45,074 - Batch Synthesis Server::DEBUG -- [Centris pump 3] : msg:Intialization already finished!, data:Non Error
+2022-10-25 13:57:45,218 - Batch Synthesis Server::DEBUG -- [Centris pump 4] : msg:Intialization already finished!, data:Non Error
+2022-10-25 13:57:45,218 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 13:57:45,375 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 13:58:06,062 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Injection done: !
+2022-10-25 13:58:06,187 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 13:58:06,187 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 13:58:06,188 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 13:58:06,347 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 13:58:27,056 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Injection done: !
+2022-10-25 13:58:27,197 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 13:58:27,197 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 13:58:27,198 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 13:58:27,357 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 13:58:48,051 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Injection done: !
+2022-10-25 13:58:48,179 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 13:58:48,179 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 13:58:48,180 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 13:58:48,338 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 13:59:09,019 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Injection done: !
+2022-10-25 13:59:09,147 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 13:59:09,147 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 13:59:09,148 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 13:59:09,307 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 13:59:29,993 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Injection done: !
+2022-10-25 13:59:30,121 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 13:59:30,121 - Batch Synthesis Server::DEBUG -- [Centris pump 0 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 13:59:30,122 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 13:59:30,280 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 13:59:51,006 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Injection done: !
+2022-10-25 13:59:51,147 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 13:59:51,147 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 13:59:51,148 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 13:59:51,302 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:00:12,011 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Injection done: !
+2022-10-25 14:00:12,138 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:00:12,138 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:00:12,139 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:00:12,313 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:00:33,057 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Injection done: !
+2022-10-25 14:00:33,198 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:00:33,198 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:00:33,199 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:00:33,356 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:00:54,075 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Injection done: !
+2022-10-25 14:00:54,217 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:00:54,217 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:00:54,218 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:00:54,377 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:01:15,126 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Injection done: !
+2022-10-25 14:01:15,270 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:01:15,270 - Batch Synthesis Server::DEBUG -- [Centris pump 1 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:01:15,271 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:01:15,429 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:01:36,124 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Injection done: !
+2022-10-25 14:01:36,252 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:01:36,252 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:01:36,253 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:01:36,409 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:01:57,099 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Injection done: !
+2022-10-25 14:01:57,241 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:01:57,241 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:01:57,242 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:01:57,398 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:02:18,086 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Injection done: !
+2022-10-25 14:02:18,229 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:02:18,229 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:02:18,230 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:02:18,389 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:02:39,077 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Injection done: !
+2022-10-25 14:02:39,221 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:02:39,221 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:02:39,222 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:02:39,379 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:03:00,101 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Injection done: !
+2022-10-25 14:03:00,242 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:03:00,243 - Batch Synthesis Server::DEBUG -- [Centris pump 2 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:03:00,243 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:03:00,400 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:03:21,109 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Injection done: !
+2022-10-25 14:03:21,251 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:03:21,251 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:03:21,252 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:03:21,410 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:03:42,111 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Injection done: !
+2022-10-25 14:03:42,254 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:03:42,254 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:03:42,255 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:03:42,410 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:04:03,108 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Injection done: !
+2022-10-25 14:04:03,248 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:04:03,248 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:04:03,249 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:04:03,407 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:04:24,128 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Injection done: !
+2022-10-25 14:04:24,271 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:04:24,271 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:04:24,272 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:04:24,429 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:04:45,121 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Injection done: !
+2022-10-25 14:04:45,249 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:04:45,249 - Batch Synthesis Server::DEBUG -- [Centris pump 3 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:04:45,250 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:04:45,409 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:05:06,118 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Injection done: !
+2022-10-25 14:05:06,244 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:05:06,244 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:05:06,245 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:05:06,401 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:05:27,106 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Injection done: !
+2022-10-25 14:05:27,232 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:05:27,232 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:05:27,233 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:05:27,391 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:05:48,136 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Injection done: !
+2022-10-25 14:05:48,279 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:05:48,279 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:05:48,280 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:05:48,438 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:06:09,137 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Injection done: !
+2022-10-25 14:06:09,262 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:06:09,262 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:06:09,263 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Injecting... Solution: , Volume:3000, flow_rate:500
+2022-10-25 14:06:09,420 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Receive signal! --> Status : Non Error
+2022-10-25 14:06:30,112 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Injection done: !
+2022-10-25 14:06:30,237 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Pump Ready? Receive signal! --> Ready : True, Status : Non Error
+2022-10-25 14:06:30,237 - Batch Synthesis Server::DEBUG -- [Centris pump 4 (real)] : Injection done, Solution: , Volume:3000, flow_rate:500
