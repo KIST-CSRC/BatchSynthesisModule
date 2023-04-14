@@ -1,2 +1,0 @@
-1. 64bit로 플랫폼 및 디버깅환경을 갖추자.
-2. 폴더에 AXL.dll, EzBasicAxl.dll, configuration.mot 3가지 파일을 모두 첨부하기

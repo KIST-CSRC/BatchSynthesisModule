@@ -14,19 +14,9 @@ This repository contains source code of batch synthesis hardware for nanoparticl
 - Syringe pump (Tecan cavro Centris)
 - Stirrer (IKA, RET Control Visc)
 - Robotic arm (Doosan robotics, M0609) + Gripper (OnRobot, RG2)
-- Linear actuator (Science Town)
-- Stock solution bottle (Daihan scientific company)
-
-## Video
-
-### Vial storage
-
-### Stirrer
-
-### Linear actuator
-
-### Syringe pump
-
+- XYZ actuator (Science Town)
+- Stock solution (Daihan scientific company)
+- ice bucket (Daihan scientific company)
 
 ## Installation
 
@@ -54,12 +44,8 @@ BatchSynthesisPlatform
 ├── Linear_Actuator_client
 │   └── Linear_Actator_Class.py
 ├── Linear_Actuator_server
-│   └── AXL.dll
-│   └── configuration.mot
-│   └── EzBasicAxl.dll
 │   └── LA_Server_Connection.cpp
 │   └── Linear_Actuator.cpp
-│   └── manual.txt
 │   └── Linear_Actuator_server.sln
 │   └── Source.cpp
 │   └── TCPServer.cpp
