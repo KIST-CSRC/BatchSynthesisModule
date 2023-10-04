@@ -6,7 +6,7 @@
   <img src="img\BatchSynthesisPlatform_architecture.png" width="70%" height="70%" />
 </p>
 
-This repository contains source code of batch synthesis hardware for nanoparticle synthesis. It follows behind robotic settings. This system is controlled by [MasterPlatform](https://github.com/KIST-CSRC/MasterPlatform](https://github.com/KIST-CSRC/BespokeSynthesisPlatform)
+This repository contains source code of batch synthesis hardware for nanoparticle synthesis. It follows behind robotic settings. This system is controlled by [BespokeSynthesisPlatform](https://github.com/KIST-CSRC/BespokeSynthesisPlatform)
 
 ## Device settings
 
