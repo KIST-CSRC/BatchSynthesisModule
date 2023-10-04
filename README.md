@@ -1,4 +1,4 @@
-# BatchSynthesisPlatform
+# Batch Synthesis Module
 
 
 ## Introduction
@@ -6,9 +6,9 @@
   <img src="img\BatchSynthesisPlatform_architecture.png" width="70%" height="70%" />
 </p>
 
-This repository contains source code of batch synthesis hardware for nanoparticle synthesis. It follows behind robotic settings. This system is controlled by [MasterPlatform](https://github.com/KIST-CSRC/MasterPlatform)
+This repository contains source code of batch synthesis hardware for nanoparticle synthesis. It follows behind robotic settings. This system is controlled by [MasterPlatform](https://github.com/KIST-CSRC/MasterPlatform](https://github.com/KIST-CSRC/BespokeSynthesisPlatform)
 
-## Robotics settings
+## Device settings
 
 - Vial storage (Arduino Uno + Servo motor)
 - Syringe pump (Tecan cavro Centris)
@@ -16,7 +16,7 @@ This repository contains source code of batch synthesis hardware for nanoparticl
 - Robotic arm (Doosan robotics, M0609) + Gripper (OnRobot, RG2)
 - XYZ actuator (Science Town)
 - Stock solution (Daihan scientific company)
-- ice bucket (Daihan scientific company)
+- Ice bucket (Daihan scientific company)
 
 ## Installation
 
@@ -31,7 +31,7 @@ pip install -r requirements_pip.txt
 
 ## Script architecture
 ```
-BatchSynthesisPlatform
+BatchSynthesisModule
 ├── BaseUtils
 │   └── Preprocess.py
 │   └── TCP_Node.py
@@ -69,4 +69,4 @@ BatchSynthesisPlatform
 ## Reference
 Please cite us if you are using our model in your research work: <br />
 
-"# BatchSynthesisPlatform" 
+"# Batch Synthesis Module" 
