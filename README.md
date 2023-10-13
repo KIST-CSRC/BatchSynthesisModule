@@ -72,7 +72,7 @@ Please cite us if you are using our model in your research work: <br />
 ```bash
 @misc{yoo2023bespoke,
       title={Bespoke Nanoparticle Synthesis and Chemical Knowledge Discovery Via Autonomous Experimentations}, 
-      author={Hyuk Jun Yoo and Nayeon Kim and Heeseung Lee and Daeho Kim and Leslie Tiong Ching Ow and Hyobin Nam
+      author={Hyuk Jun Yoo and Nayeon Kim and Heeseung Lee and Daeho Kim and Leslie Tiong Ching Ow and Hyobin Nam  
       and Chansoo Kim and Seung Yong Lee and Kwan-Young Lee and Donghun Kim and Sang Soo Han},
       year={2023},
       eprint={2309.00349},
