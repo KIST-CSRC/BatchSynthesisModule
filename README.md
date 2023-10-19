@@ -6,7 +6,7 @@
   <img src="img\BatchSynthesisPlatform_architecture.png" width="70%" height="70%" />
 </p>
 
-This repository contains source code of batch synthesis hardware for nanoparticle synthesis. It follows behind robotic settings. This system is controlled by [BespokeSynthesisPlatform](https://github.com/KIST-CSRC/BespokeSynthesisPlatform)
+This repository contains source code of batch synthesis hardware for nanoparticle synthesis. It follows behind robotic settings. This system is controlled by [BespokeSynthesisModule](https://github.com/KIST-CSRC/BespokeSynthesisModule)
 
 ## Device settings
 
@@ -69,15 +69,5 @@ BatchSynthesisModule
 ## Reference
 Please cite us if you are using our model in your research work: <br />
 
-```bash
-@misc{yoo2023bespoke,
-      title={Bespoke Nanoparticle Synthesis and Chemical Knowledge Discovery Via Autonomous Experimentations}, 
-      author={Hyuk Jun Yoo and Nayeon Kim and Heeseung Lee and Daeho Kim and Leslie Tiong Ching Ow and Hyobin Nam  
-      and Chansoo Kim and Seung Yong Lee and Kwan-Young Lee and Donghun Kim and Sang Soo Han},
-      year={2023},
-      eprint={2309.00349},
-      archivePrefix={arXiv},
-      primaryClass={physics.chem-ph}
-}
-```
+[1] Yoo, H. J., Kim, N., Lee, H., Kim, D., Ow, L. T. C., Nam, H., ... & Han, S. S. (2023). Bespoke Nanoparticle Synthesis and Chemical Knowledge Discovery Via Autonomous Experimentations. arXiv preprint arXiv:2309.00349.
 
