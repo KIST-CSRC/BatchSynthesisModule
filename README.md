@@ -17,6 +17,9 @@ This repository contains source code of batch synthesis hardware for nanoparticl
 - XYZ actuator (Science Town)
 - Stock solution (Daihan scientific company)
 - Ice bucket (Daihan scientific company)
+- Hot Plate
+- Cap holder (3D printhing)
+- Twister holder (3D printing)
 
 ## Installation
 
